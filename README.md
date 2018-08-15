@@ -1,6 +1,6 @@
 # Welcome to Simple Blog!
 
-##### RWD design 
+##### Blog website allows users to share articles. 
 
 ## Technologies
 + `PHP7`
