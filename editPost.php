@@ -3,7 +3,7 @@
      * https://www.youtube.com/watch?v=9t7AH7lOlL0&index=22&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn
      */
     require('config.php');
-    require('db.php');  
+    require('db.php');
 
     // check for submit
     /** */
