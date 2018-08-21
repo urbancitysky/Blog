@@ -1,7 +1,7 @@
 <?php
     /**
      * Description: 
-     * https://www.youtube.com/watch?v=IYlDJ2K3MGk&index=21&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn
+     * 
      * 
      * issue: can't delete post
      */

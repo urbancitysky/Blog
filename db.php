@@ -1,7 +1,5 @@
 <?php
-    /**
-     * https://www.youtube.com/watch?v=IYlDJ2K3MGk&index=21&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn
-     */
+
     // create connection    
     $conn = mysqli_connect(DB_HOST, DB_USER, DB_PASS, DB_NAME);
     // check connection
@@ -10,3 +8,5 @@
         echo 'Failed to connect to MySQL'. mysqli_connect_errno();
     }
 
+
+    
