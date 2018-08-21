@@ -19,6 +19,7 @@
     
     // free up memory
     mysqli_free_result($result);
+    
     // close conn
     mysqli_close($conn);
     // <?php echo ROOT_URL;
