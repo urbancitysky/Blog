@@ -3,7 +3,7 @@
      * https://www.youtube.com/watch?v=IYlDJ2K3MGk&index=21&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn
      */
     require('config.php');
-    require('db.php');  
+    require('db.php');
 
     // $query = 'SELECT * FROM posts WHERE id ='.$id;
     $query = 'SELECT * FROM posts ORDER BY created_date DESC';
@@ -37,6 +37,4 @@
         <?php endforeach; ?>
     </div>
 <?php include('footer.php'); ?>
-
-
 

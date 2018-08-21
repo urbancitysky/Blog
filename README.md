@@ -3,7 +3,7 @@
 ##### Blog website allows users to share articles. 
 
 ## Technologies
-+ `PHP7`
++ `PHP7`, `MySQL`
 + `CSS`, `Boostrap` 
 
 ## Screen shots
