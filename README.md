@@ -7,7 +7,3 @@
 + `CSS`, `Boostrap` 
 
 ## Screen shots
-![Add post](https://github.com/urbancitysky/Blog/blob/master/Sceen%20shot/post.png)
-
-![Blog](https://github.com/urbancitysky/Blog/blob/master/Sceen%20shot/blog.png)
-
